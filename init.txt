@@ -1,0 +1,8 @@
+Al usar el comando "git init", se inicia un repositorio.
+
+El comando se debe correr en la carpeta raíz del proyecto.
+
+Soporta diferentes opciones, sin embargo, para el alcance de este curso solo se toca la instrucción base.
+
+Ejemplo:
+    >>repos/miproyecto$ git init
